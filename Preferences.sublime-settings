@@ -1,0 +1,13 @@
+{
+    "ignored_packages": ["Vintage"],
+    "color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+    "theme": "Soda Light.sublime-theme",
+
+    "font_size": 10.0,
+    "highlight_line": true,
+    "rulers": [79, 119],
+    "word_wrap": false,
+
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true
+}
