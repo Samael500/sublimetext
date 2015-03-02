@@ -1,0 +1,14 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Djaneiro",
+		"Markdown Preview",
+		"Package Control",
+		"Python Pep8 Lint",
+		"Theme - Soda"
+	]
+}
