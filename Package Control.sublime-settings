@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -8,7 +9,10 @@
 		"Djaneiro",
 		"Markdown Preview",
 		"Package Control",
+		"Preview",
 		"Python Pep8 Lint",
-		"Theme - Soda"
+		"SyncedSideBar",
+		"Theme - Soda",
+		"View In Browser"
 	]
 }
