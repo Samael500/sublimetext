@@ -8,12 +8,16 @@
 		"CoffeeScript",
 		"Djaneiro",
 		"Markdown Preview",
+		"Monokai Extended",
 		"nginx",
+		"OmniMarkupPreviewer",
 		"Package Control",
 		"Preview",
+		"Python 3",
 		"Python Pep8 Lint",
 		"SyncedSideBar",
 		"Theme - Soda",
-		"View In Browser"
+		"View In Browser",
+		"WakaTime"
 	]
 }
